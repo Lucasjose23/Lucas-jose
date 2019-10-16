@@ -6,6 +6,12 @@ body {
   font-size: 16px;
   font-weight: 300;
   position: relative;
+  overflow-x: hidden;
+}
+
+html {
+  position: relative;
+  overflow-x: hidden;
 }
 
 .p1-gradient-bg, .thumb .overlay-bg {
