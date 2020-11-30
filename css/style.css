@@ -49,10 +49,10 @@ h5 {
 
 a {
   transition: 0.3s all;
-  color: #d7957f;
+  color: #40E0D0;
 }
 a:hover, a:focus, a:active {
-  color: #d1856c;
+  color: #00E0D0;
   text-decoration: none;
 }
 
@@ -114,7 +114,7 @@ a:hover, a:focus, a:active {
   }
 }
 .site-navbar .navbar-nav.active > a {
-  color: #d7957f !important;
+  color: #40E0D0 !important;
 }
 .site-navbar.scrolled {
   background: #fff;
@@ -144,7 +144,7 @@ a:hover, a:focus, a:active {
 }
 .site-navbar.scrolled.sleep {
   transform: translateY(-90%);
-  background: #d7957f !important;
+  background: #40E0D0 !important;
 }
 .site-navbar.scrolled .navbar-brand {
   color: #000;
@@ -156,13 +156,13 @@ a:hover, a:focus, a:active {
   color: rgba(0, 0, 0, 0.7) !important;
 }
 .site-navbar.scrolled .navbar-nav > li > a:hover {
-  color: #d7957f !important;
+  color: #40E0D0 !important;
 }
 .site-navbar.scrolled .navbar-nav > li > a.active {
-  color: #d7957f !important;
+  color: #40E0D0 !important;
 }
 .site-navbar.scrolled .navbar-nav > li.active > a {
-  color: #d7957f !important;
+  color: #40E0D0 !important;
 }
 
 .site-hero {
@@ -240,7 +240,7 @@ a:hover, a:focus, a:active {
   left: 0;
   height: 2px;
   width: 50px;
-  background: #d7957f;
+  background: #40E0D0;
   z-index: -1;
 }
 .section-heading.text-center h2:before {
@@ -257,7 +257,7 @@ a:hover, a:focus, a:active {
   display: block;
   margin-bottom: 50px;
   background: #edf0f2;
-  background: #d7957f;
+  background: #40E0D0;
   width: 100px;
   height: 100px;
   position: relative;
@@ -310,7 +310,7 @@ a:hover, a:focus, a:active {
   padding-left: 30px;
 }
 .site-list li.site-check:before {
-  color: #d7957f;
+  color: #40E0D0;
   font-size: 16px;
   content: "";
 }
@@ -326,12 +326,12 @@ a:hover, a:focus, a:active {
 }
 .btn.btn-primary {
   color: #fff;
-  background-color: #d7957f;
-  border-color: #d7957f;
+  background-color: #40E0D0;
+  border-color: #40E0D0;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   background: #d1856c;
-  background-color: #d4a799;
+  background-color: #00E0D8;
 }
 
 .progress {
@@ -340,12 +340,12 @@ a:hover, a:focus, a:active {
   height: 4px;
 }
 .progress .progress-bar {
-  background-color: #d7957f;
+  background-color: #40E0D0;
   position: relative;
   border-radius: 4px;
 }
 .progress .progress-bar span {
-  background-color: #d7957f;
+  background-color: #40E0D0;
   position: absolute;
   bottom: -20px;
   font-size: 10px;
@@ -364,7 +364,7 @@ a:hover, a:focus, a:active {
   position: absolute;
   pointer-events: none;
   border-color: rgba(255, 255, 255, 0);
-  border-bottom-color: #d7957f;
+  border-bottom-color: #40E0D0;
   border-width: 5px;
   margin-left: -5px;
 }
@@ -387,10 +387,10 @@ a:hover, a:focus, a:active {
   transition: 0.3s all ease;
 }
 .filters ul li:hover {
-  color: #d7957f;
+  color: #40E0D0;
 }
 .filters ul li.active {
-  color: #d7957f;
+  color: #40E0D0;
 }
 
 .single-portfolio {
@@ -415,7 +415,7 @@ a:hover, a:focus, a:active {
 /*--------- Start Portfolio Area -------------*/
 .portfolio-area .primary-btn {
   color: #fff;
-  background-color: #d7957f;
+  background-color: #40E0D0;
   margin-left: auto;
   margin-right: auto;
 }
@@ -461,7 +461,7 @@ a:hover, a:focus, a:active {
 }
 
 .portfolio-area .filters ul li.active {
-  color: #d7957f;
+  color: #40E0D0;
 }
 
 .portfolio-area .filters-content {
@@ -558,7 +558,7 @@ a:hover, a:focus, a:active {
   border: 4px solid transparent;
 }
 .resume-item:hover, .resume-item:focus {
-  border: 4px solid #d7957f;
+  border: 4px solid #40E0D0;
   box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.1);
 }
 .resume-item .date {
@@ -601,7 +601,7 @@ a:hover, a:focus, a:active {
   color: #2c3e50;
 }
 .blog-entry .blog-entry-text h3 a:hover {
-  color: #d7957f;
+  color: #40E0D0;
 }
 .blog-entry .meta {
   font-size: 14px;
@@ -612,7 +612,7 @@ a:hover, a:focus, a:active {
   color: #96a3b0;
 }
 .blog-entry .meta a:hover {
-  color: #d7957f;
+  color: #40E0D0;
 }
 
 .form-control {
@@ -698,7 +698,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-primary {
-  color: #d7957f !important;
+  color: #40E0D0 !important;
 }
 
 .section-heading h2:before {
